@@ -10,11 +10,11 @@ the best.
 
 <html>
 
-<table width=200 height=50 color="green" border=3 bordercolor="red"></table>
+<table width=200 height=50 border=3 bordercolor="red" background="green"></table>
   
 测试页面。。。
  
-  <img src="1.jpg></img><img src="20.jpg></img>
+  <img src="1.jpg"></img><img src="20.jpg"></img>
 
 </html>
 
