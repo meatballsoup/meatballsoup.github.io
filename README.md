@@ -16,6 +16,13 @@ the best.
  
   <img src="1.jpg"></img><img src="20.jpg"></img>
 
+
+
+
+<b><font face="黑体“ size=13 color="orange">平均高考线</font></b>
+
+
+
 </html>
 
 
