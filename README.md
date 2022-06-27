@@ -4,6 +4,10 @@ the best.
 
 广佛之眼.
 
+
+<img src="1.jpg"></img>
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
